@@ -7,3 +7,9 @@
     Простая компоновка пользовательского интерфейса в Compose
     Добавление интерактивного поведения в composable
     Использование remember и mutableStateOf для отслеживания актуального состояния приложения
+
+![photo_2026-03-22_18-13-07](https://github.com/user-attachments/assets/0639a258-262a-4162-82db-59d4b33367c1)
+![photo_2026-03-22_18-13-08](https://github.com/user-attachments/assets/7d8e642a-d72a-4008-af9e-bf6f344d2e1e)
+![photo_2026-03-22_18-13-09](https://github.com/user-attachments/assets/4547cb7b-62b2-46ff-91ca-9e90638e61e3)
+![photo_2026-03-22_18-13-11](https://github.com/user-attachments/assets/b3f041ee-d6a4-492c-a25f-52bb53e1c1af)
+
